@@ -1,0 +1,5 @@
+net.sf.jasperreports.engine.data.JRAbstractBeanDataSource$PropertyNameProvider
+net.sf.jasperreports.engine.data.JRAbstractBeanDataSource$DefaultPropertyNameProvider
+net.sf.jasperreports.engine.data.JRAbstractBeanDataSource
+net.sf.jasperreports.engine.data.JRAbstractBeanDataSource$2
+net.sf.jasperreports.engine.data.JRAbstractBeanDataSource$1

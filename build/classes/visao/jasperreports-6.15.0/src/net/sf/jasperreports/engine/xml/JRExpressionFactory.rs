@@ -1,0 +1,14 @@
+net.sf.jasperreports.engine.xml.JRExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$ArbitraryExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$DateExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$ComparableExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$DoubleExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$ConnectionExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$StringExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$ObjectExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$DataSourceExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$MapExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$IntegerExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$BooleanExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$NumberExpressionFactory
+net.sf.jasperreports.engine.xml.JRExpressionFactory$ComparatorExpressionFactory

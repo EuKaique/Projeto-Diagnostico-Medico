@@ -1,0 +1,2 @@
+net.sf.jasperreports.web.util.WebResourceHandlersExtensionRegistryFactory$1
+net.sf.jasperreports.web.util.WebResourceHandlersExtensionRegistryFactory

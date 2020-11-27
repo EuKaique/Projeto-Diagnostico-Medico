@@ -1,0 +1,3 @@
+net.sf.jasperreports.customvisualization.CVComponentExtensionsRegistryFactory$2
+net.sf.jasperreports.customvisualization.CVComponentExtensionsRegistryFactory$1
+net.sf.jasperreports.customvisualization.CVComponentExtensionsRegistryFactory

@@ -1,0 +1,2 @@
+net.sf.jasperreports.engine.util.BreakIteratorSplitCharacter$ArrayCharIterator
+net.sf.jasperreports.engine.util.BreakIteratorSplitCharacter

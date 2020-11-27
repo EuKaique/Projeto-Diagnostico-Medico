@@ -1,0 +1,3 @@
+net.sf.jasperreports.customvisualization.export.CVElementPhantomJSImageDataProvider
+net.sf.jasperreports.customvisualization.export.CVElementPhantomJSImageDataProvider$1
+net.sf.jasperreports.customvisualization.export.CVElementPhantomJSImageDataProvider$2

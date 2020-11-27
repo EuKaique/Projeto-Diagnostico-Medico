@@ -1,0 +1,6 @@
+net.sf.jasperreports.engine.export.JsonMetadataExporter$NodeTypeEnum
+net.sf.jasperreports.engine.export.JsonMetadataExporter$LocalTextValueHandler
+net.sf.jasperreports.engine.export.JsonMetadataExporter$ExporterContext
+net.sf.jasperreports.engine.export.JsonMetadataExporter$SchemaNode
+net.sf.jasperreports.engine.export.JsonMetadataExporter$SchemaNodeMember
+net.sf.jasperreports.engine.export.JsonMetadataExporter

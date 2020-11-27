@@ -1,0 +1,2 @@
+net.sf.jasperreports.compilers.JRGroovyCompiler
+net.sf.jasperreports.compilers.JRGroovyCompiler$ClassCollector

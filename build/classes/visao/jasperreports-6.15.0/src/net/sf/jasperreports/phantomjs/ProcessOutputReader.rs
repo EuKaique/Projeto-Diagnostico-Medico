@@ -1,0 +1,3 @@
+net.sf.jasperreports.phantomjs.ProcessOutputReader$ErrorReader
+net.sf.jasperreports.phantomjs.ProcessOutputReader
+net.sf.jasperreports.phantomjs.ProcessOutputReader$OutputReader

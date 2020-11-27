@@ -1,0 +1,2 @@
+net.sf.jasperreports.web.util.FontWebResourceHandler$FontFamilyHtmlResourceHandler
+net.sf.jasperreports.web.util.FontWebResourceHandler

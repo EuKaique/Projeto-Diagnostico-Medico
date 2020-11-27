@@ -1,0 +1,9 @@
+net.sf.jasperreports.engine.export.JRXlsMetadataExporter$BoxStyle
+net.sf.jasperreports.engine.export.JRXlsMetadataExporter$StyleInfo
+net.sf.jasperreports.engine.export.ImageSettings
+net.sf.jasperreports.engine.export.JRXlsMetadataExporter$ExporterContext
+net.sf.jasperreports.engine.export.JRXlsMetadataExporter$1
+net.sf.jasperreports.engine.export.JRXlsMetadataExporter$InternalImageProcessor
+net.sf.jasperreports.engine.export.JRXlsMetadataExporter
+net.sf.jasperreports.engine.export.JRXlsMetadataExporter$CellSettings
+net.sf.jasperreports.engine.export.JRXlsMetadataExporter$InternalImageProcessorResult

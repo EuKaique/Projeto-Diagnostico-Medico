@@ -1,0 +1,4 @@
+net.sf.jasperreports.engine.xml.JRSectionFactory$GroupFooterSectionFactory
+net.sf.jasperreports.engine.xml.JRSectionFactory
+net.sf.jasperreports.engine.xml.JRSectionFactory$GroupHeaderSectionFactory
+net.sf.jasperreports.engine.xml.JRSectionFactory$DetailSectionFactory

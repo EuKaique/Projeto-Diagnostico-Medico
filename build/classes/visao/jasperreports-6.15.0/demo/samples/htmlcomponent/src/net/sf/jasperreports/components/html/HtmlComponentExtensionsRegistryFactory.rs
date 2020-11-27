@@ -1,0 +1,2 @@
+net.sf.jasperreports.components.html.HtmlComponentExtensionsRegistryFactory
+net.sf.jasperreports.components.html.HtmlComponentExtensionsRegistryFactory$1

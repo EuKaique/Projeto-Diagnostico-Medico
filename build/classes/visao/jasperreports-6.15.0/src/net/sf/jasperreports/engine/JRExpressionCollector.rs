@@ -1,0 +1,2 @@
+net.sf.jasperreports.engine.JRExpressionCollector
+net.sf.jasperreports.engine.JRExpressionCollector$GeneratedIds

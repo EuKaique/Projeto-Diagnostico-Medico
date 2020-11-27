@@ -1,0 +1,1 @@
+net.sf.jasperreports.components.map.MapElementGraphics2DHandler

@@ -1,0 +1,3 @@
+net.sf.jasperreports.components.headertoolbar.actions.ResizeColumnCommand
+net.sf.jasperreports.components.headertoolbar.actions.ResizeColumnCommand$ColumnGroupInfo
+net.sf.jasperreports.components.headertoolbar.actions.ResizeColumnCommand$ColumnUtil

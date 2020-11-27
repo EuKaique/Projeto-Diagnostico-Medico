@@ -1,0 +1,5 @@
+net.sf.jasperreports.engine.xml.JRGenericPrintElementParameterFactory
+net.sf.jasperreports.engine.xml.JRGenericPrintElementParameterFactory$ParameterValueFactory
+net.sf.jasperreports.engine.xml.JRGenericPrintElementParameterFactory$Parameter
+net.sf.jasperreports.engine.xml.JRGenericPrintElementParameterFactory$ParameterValue
+net.sf.jasperreports.engine.xml.JRGenericPrintElementParameterFactory$ArbitraryValueSetter
